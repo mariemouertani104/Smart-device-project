@@ -1,7 +1,7 @@
 # Smart-device-project
 Smart Agri-Sensor : Solution IoT pour l'Agriculture de Précision
 
-Description
+
 Le Smart Agri-Sensor est un dispositif intelligent conçu pour répondre aux défis du changement climatique et optimiser la gestion des ressources en eau dans le secteur agricole. Basé sur le microcontrôleur ESP32, ce capteur surveille en temps réel les conditions environnementales (humidité du sol, température et pression atmosphérique) pour aider les agriculteurs à prendre des décisions d'irrigation basées sur des données factuelles plutôt que sur des calendriers fixes.
 
 Caractéristiques Principales
